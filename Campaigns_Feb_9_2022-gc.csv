@@ -1,0 +1,487 @@
+﻿State,Campaigns,Status,Type,Targeting,Campaign bidding strategy,Start date,End date,Portfolio,Budget(USD),Top-of-search IS,Cost type,Impressions,Clicks,CTR,Spend(USD),CPC(USD),Orders,Sales(USD),ACOS,ROAS,NTB orders,% of orders NTB,NTB sales(USD),% of sales NTB,Viewable impressions,VCPM(USD)
+ENABLED,B07QX99H18 - Mr Mrs - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,,20.00,<5%,CPC,9595,28,0.0029,22.59,0.81,4,39.96,0.5653,1.7689,0,0,0.00,0,0,0.00
+ENABLED,B07NCZF98B - Retirement - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,Retirement Can Coolers,20.00,<5%,CPC,19898,23,0.0012,25.08,1.09,3,47.97,0.5228,1.9127,0,0,0.00,0,0,0.00
+ENABLED,B07WDKX1K4 - Bachelor - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,Bachelor Party Pack,20.00,<5%,CPC,31469,33,0.001,21.48,0.65,3,53.97,0.398,2.5126,0,0,0.00,0,0,0.00
+ENABLED,ID - 40th Bday - SB - V,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,6/8/20,,.40th Birthday Decorations,100.00,,CPC,3017,36,0.0119,32.02,0.89,3,53.97,0.5933,1.6855,0,0,0.00,0,0,0.00
+ENABLED,B08CD3HTCF - HBDL - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,.HB Legend,20.00,<5%,CPC,9873,30,0.003,20.11,0.67,2,35.98,0.5589,1.7892,0,0,0.00,0,0,0.00
+ENABLED,ID - Bachelor - SB - V,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,6/12/20,,.Bachelor Party Supplies,10.00,,CPC,1338,12,0.009,9.72,0.81,2,35.98,0.2702,3.7016,0,0,0.00,0,0,0.00
+ENABLED,Thin Blue Line Coolers - Incrementum - B07JQHNLFZ - SP - Manual - v1 - 2niflry6,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Thin Blue Line Coolers,27.09,5.444126074498567%,CPC,583,2,0.0034,1.51,0.76,1,14.99,0.1007,9.9272,0,0,0.00,0,0,0.00
+ENABLED,Thin Red Line Coolers - Incrementum - B07JRDYPF8 - SP - Manual - v1 - y5fpabun,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Thin Red Line Coolers,23.15,8.220603537981269%,CPC,784,1,0.0013,2.10,2.10,1,14.99,0.1401,7.1381,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 40th Bday - SB - AS - KT IMG,RUNNING,SB,MANUAL,,9/1/20,,.40th Birthday Decorations,50.00,<5%,,3020,12,0.004,10.41,0.87,1,17.99,0.5787,1.7281,1,1,17.99,1,0,0.00
+ENABLED,Incrementum - 30th Bday - SB - AS - KT - IMG,RUNNING,SB,MANUAL,,9/23/20,,.30th Birthday Decorations,20.00,<5%,,2418,3,0.0012,2.39,0.80,1,35.98,0.0664,15.0544,1,1,35.98,1,0,0.00
+ENABLED,ID - 50th Bday - SB - V,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,6/12/20,,.50th Birthday Gifts,60.00,,CPC,1845,17,0.0092,13.94,0.82,1,17.99,0.7749,1.2905,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement Gifts - SB - V,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,7/7/20,,.Retirement Gifts,30.00,,CPC,614,6,0.0098,5.26,0.88,1,15.99,0.329,3.0399,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - HB Legend - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,7/19/20,,.HB Legend,20.00,,CPC,2357,9,0.0038,4.40,0.49,1,17.99,0.2446,4.0886,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Man Cave - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,10/19/20,,. Man Cave,2.00,,CPC,976,2,0.002,1.44,0.72,1,6.99,0.206,4.8542,0,0,0.00,0,0,0.00
+ENABLED,Incrementum  - 30th Bday - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,10/20/20,,.30th Birthday Decorations,20.00,,CPC,551,5,0.0091,4.64,0.93,1,17.99,0.2579,3.8772,0,0,0.00,0,0,0.00
+ENABLED,Backpack PPI Test,ENDED,SP,MANUAL,Dynamic bids - down only,2/25/18,3/4/18,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Fishing Gifts for Men - Can Coolers,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/11/18,10/18/18,Fishing Can Coolers,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Fishing can cooler automatic,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,10/22/18,,Fishing Can Coolers,33.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Fishing Can Coolers - manual keywords,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/21/18,,Fishing Can Coolers,99.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,fishing can coolers ppc winners 10-28 phrase,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/28/18,,Fishing Can Coolers,109.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,fishing can coolers ppc winners 10-28 exact,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/28/18,,Fishing Can Coolers,77.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Fishing can coolers - fishing terms,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/28/18,,.Fishing Coolers,109.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,thin red line can coolers automatic,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/5/18,,,79.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,thin blue line coolers automatic,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,11/5/18,,Police Can Coolers,79.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,thin blue line manual,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/7/18,,Police Can Coolers,33.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,thin red line coolers manual,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - up and down,11/7/18,,,63.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Advertise Coupons,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/14/18,,,45.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Fishing Can Cooler Automatic,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,12/6/18,,,139.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Red Line PPC winners - 12-10,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,12/10/18,,,29.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Blue Line - 12-10 PPC winners bid+,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,12/10/18,,Police Can Coolers,63.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Weekly Planner Pad Phrase Match,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,12/9/18,,,79.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Weekly Planner Pad,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,12/9/18,,,39.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,weekly planner pad - 12/16 top keywords PHRASE,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,12/16/18,,,39.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,weekly planner pad - 12/16 top keywords EXACT,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,12/16/18,,,63.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,THIN BLUE LINE COOLERS - Auto,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,1/5/19,,Police Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - think red line sponsored ASIN's,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,1/5/19,,Firefighter Can Coolers,60.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,RESEARCH - THIN BLUE LINE COOLERS,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,1/5/19,,Police Can Coolers,125.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Blue Line Coolers - Sponsored Products,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,1/4/19,,Police Can Coolers,125.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - THIN RED LINE COOLERS - Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/5/19,,Firefighter Can Coolers,151.14,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,VL - RESEARCH - THIN RED LINE COOLERS,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,1/5/19,,Firefighter Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,FISHING CAN COOLERS - Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/19,,Fishing Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,RESEARCH - Fishing Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,1/14/19,,Fishing Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - Reference,CAMPAIGN_INCOMPLETE,SP,MANUAL,Dynamic bids - down only,1/13/19,,,1.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,PRODUCT TARGETING - Fishing Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,1/19/19,,Fishing Can Coolers,45.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,PRODUCT RESEARCH - Weekly Planner Pad,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,1/18/19,,,30.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - RESEARCH - RETIREMENT COOLERS 6pk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,2/17/19,,Retirement Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - PRODUCT TARGETING - RETIREMENT COOLERS 6pk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,2/17/19,,Retirement Can Coolers,115.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - AUTO - RETIREMENT COOLERS 6pk,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,2/17/19,,Retirement Can Coolers,80.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD - Firefighter Gifts for Men,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,3/1/19,,Firefighter Can Coolers,65.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,KEYWORD - Fishing Gifts for Men,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,3/1/19,,Fishing Can Coolers,60.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,KEYWORD: Police Officer Gifts,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,2/28/19,,Police Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: Retirement Gifts for Women,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,2/28/19,,Retirement Can Coolers,55.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD - Retirement Gifts for Men,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,2/28/19,,Retirement Can Coolers,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: retirement gifts,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,3/22/19,,Retirement Can Coolers,60.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: retirement party decorations,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,3/29/19,,Retirement Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KEYWORD: thin blue line,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,3/29/19,,Police Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,KEYWORD - blue lives matter,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,3/29/19,,Police Can Coolers,30.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - TRAILBLAZER - Retirement Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,3/29/19,,Retirement Can Coolers,85.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,TRAILBLAZER - Police Blue Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/6/19,,Police Can Coolers,35.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - TRAILBLAZER - Firefighter Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/6/19,,Firefighter Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - RESEARCH - 50th Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/14/19,,50th Can Coolers,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - PRODUCT TARGETING - 50th Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/14/19,,50th Can Coolers,125.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: 50th birthday decorations,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/24/19,,50th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - AUTO - 50th Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,4/14/19,,50th Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: 50th birthday decorations for men,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/22/19,,50th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - PRODUCTS - MR MRS COOLER BUNDLE,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/29/19,,Mr Mrs Cooler Bundle,75.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - RESEARCH - MR MRS COOLER BUNDLE,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,4/29/19,,Mr Mrs Cooler Bundle,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - AUTO - MR MRS COOLER BUNDLE,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,4/29/19,,Mr Mrs Cooler Bundle,65.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: wedding gifts for the couple,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/6/19,,Mr Mrs Cooler Bundle,40.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: anniversary gifts for couple,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/6/19,,Mr Mrs Cooler Bundle,40.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: wedding gifts for the couple unique,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/6/19,,Mr Mrs Cooler Bundle,35.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: engagement gifts for couples,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/6/19,,Mr Mrs Cooler Bundle,40.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - TRAILBLAZER - 50th Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/20/19,,50th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - PRODUCT TARGETING - 40TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/10/19,,40th Can Coolers,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - AUTO - 40th Can Coolers,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,6/10/19,,40th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,VL - EXACT - 40th birthday decorations,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,6/14/19,,40th Can Coolers,35.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - MANUAL - 40TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/10/19,,40th Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,VL - EXACT - 40th birthday decorations for men,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,6/14/19,,40th Can Coolers,75.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,PRODUCT TARGETING - 30TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/5/19,,30th Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,RESEARCH - 30TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/5/19,,30th Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,AUTO - 30TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,7/5/19,,30th Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - TRAILBLAZER: 40TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/13/19,,40th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,TRAILBLAZER - 30TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/13/19,,30th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,VL - KW: 40th birthday decorations for women,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,7/13/19,,40th Can Coolers,35.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: 50th birthday,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/13/19,,50th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - KEYWORD: retirement decorations,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/22/19,,Retirement Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - PRODUCT TARGETING - 60TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/24/19,,60th Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - AUTO - 60TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,7/24/19,,60th Can Coolers,100.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - RESEARCH - 60TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/24/19,,60th Can Coolers,80.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - TRAILBLAZER - 60TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/2/19,,60th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07JRDYPF8 - KM: Beer,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,8/22/19,,Firefighter Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07NLD3D9H - KM: beer,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,8/22/19,,50th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07SFXXJKL -  KM: Beer,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,8/22/19,,40th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07QX99H18 - KM: Beer,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,8/22/19,,Mr Mrs Cooler Bundle,40.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07VBJ8G8F - KM: Beer,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,8/22/19,,60th Can Coolers,40.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07NCZF98B - KM: Beer,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,8/22/19,,Retirement Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,AUTO - BACHELOR PARTY PACK,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,9/2/19,,Bachelor Party Pack,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,PRODUCT TARGETING - BACHELOR PARTY PACK,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/2/19,,Bachelor Party Pack,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,DISCOVERY - BACHELOR PARTY PACK,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/2/19,,Bachelor Party Pack,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,AUTO - VERY LOW BID - 30TH CAN COOLERS,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,9/15/19,,30th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - TRAILBLAZER - MR MRS COOLERS,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/20/19,,Mr Mrs Cooler Bundle,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,DISCOVERY - BACHELORETTE PACK,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/1/19,,Bachelorette Party Pack,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,AUTO - BACHELORETTE PARTY PACK,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,10/1/19,,Bachelorette Party Pack,125.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,PRODUCT TARGETING - BACHELORETTE PACK,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/1/19,,Bachelorette Party Pack,150.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07SFXXJKL - Discovery,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,10/22/19,,40th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07JRDYPF8 - Discovery,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,10/22/19,,Firefighter Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07VBJ8G8F - Discovery,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,10/22/19,,60th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07NLD3D9H - Discovery,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,10/22/19,,50th Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,VL - B07NCZF98B - Discovery,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,10/24/19,,Retirement Can Coolers,50.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SP - Auto - v1 - xk7vzhys,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SP - Manual - v1 - xk7vzhys,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SP - PAT - v1 - xk7vzhys,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts - Incrementum - B07TRPHFLT - SP - Auto - v1 - 7p7a8x8j,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.Retirement Gifts,28.75,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts - Incrementum - B07TRPHFLT - SP - Manual - v1 - 7p7a8x8j,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Retirement Gifts,71.25,<5%,CPC,1065,12,0.0113,13.56,1.13,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts - Incrementum  - B07TRPHFLT - SP - PAT - v1 - 7p7a8x8j,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Retirement Gifts,6.82,<5%,CPC,163,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Fishing Coolers - Incrementum  - B07H7MFZ8R - SP - Auto - v1 - ohsz2foh,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.Fishing Coolers,1.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Coolers - Incrementum - B07H7MFZ8R - SP - Manual - v1 - ohsz2foh,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Fishing Coolers,30.00,<5%,CPC,7,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Coolers - Incrementum - B07H7MFZ8R - SP - PAT - v1 - ohsz2foh,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Fishing Coolers,5.00,,CPC,3,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Birthday Gifts - Incrementum - B07TT8GNJ2 - SP - Auto - v1 - of8gq9sd,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.50th Birthday Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Birthday Gifts - Incrementum - B07TT8GNJ2 - SP - Manual - v1 - of8gq9sd,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.50th Birthday Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Birthday Gifts - Incrementum - B07TT8GNJ2 - SP - PAT - v1 - of8gq9sd,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.50th Birthday Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors - Incrementum - B07Y5PBS86 - SP - Auto - v1 - 3bhe1d01,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.Bachelorette Party Favors,16.67,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors - Incrementum - B07Y5PBS86 - SP - Manual - v1 - 3bhe1d01,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Bachelorette Party Favors,33.33,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors - Incrementum - B07Y5PBS86 - SP - PAT - v1 - 3bhe1d01,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Bachelorette Party Favors,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - B07VBJ8G8F - SP - Auto - v1 - bot86zsk,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.60th Birthday Decorations,27.25,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - B07VBJ8G8F - SP - Manual - v1 - bot86zsk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.60th Birthday Decorations,54.50,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - B07VBJ8G8F - SP - PAT - v1 - bot86zsk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.60th Birthday Decorations,27.25,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelor Party Supplies - Incrementum - B07WDKX1K4 - SP - Auto - v1 - dffc8fef,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.Bachelor Party Supplies,1.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Supplies - Incrementum - B07WDKX1K4 - SP - Manual - v1 - dffc8fef,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Bachelor Party Supplies,50.00,5.615942028985507%,CPC,1274,4,0.0031,3.39,0.85,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Supplies - Incrementum - B07WDKX1K4 - SP - PAT - v1 - dffc8fef,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Bachelor Party Supplies,4.08,<5%,CPC,489,1,0.002,0.94,0.94,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Blue Line Coolers - Incrementum - B07JQHNLFZ - SP - Auto - v1 - 2niflry6,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.Thin Blue Line Coolers,10.42,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Blue Line Coolers - Incrementum - B07JQHNLFZ - SP - PAT - v1 - 2niflry6,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Thin Blue Line Coolers,10.49,<5%,CPC,150,2,0.0133,1.92,0.96,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - B07TLYBGV7 - SP - Auto - v1 - ebrzias7,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.30th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - B07TLYBGV7 - SP - Manual - v1 - ebrzias7,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.30th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - B07TLYBGV7 - SP - PAT - v1 - ebrzias7,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.30th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Wedding Gifts - Incrementum - B07QX99H18 - SP - Auto - v1 - uea67uau,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.Wedding Gifts,9.70,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Wedding Gifts - Incrementum - B07QX99H18 - SP - Manual - v1 - uea67uau,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Wedding Gifts,20.30,<5%,CPC,744,5,0.0067,5.90,1.18,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Wedding Gifts - Incrementum- B07QX99H18 - SP - PAT - v1 - uea67uau,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Wedding Gifts,4.79,<5%,CPC,4,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Red Line Coolers - Incrementum - B07JRDYPF8 - SP - Auto - v1 - y5fpabun,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,11/18/19,,.Thin Red Line Coolers,10.86,,CPC,1962,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Red Line Coolers - Incrementum - B07JRDYPF8 - SP - PAT - v1 - y5fpabun,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/18/19,,.Thin Red Line Coolers,4.99,12.5%,CPC,63,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th_Bday_Decor_For_Men-KWB - Incrementum - B07NLD3D9H - SP - KB_0 Manual - v1 - of8gq9sd,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/12/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum-30th_Bday_Decorations-KWB - Liran - B07TLYBGV7 - SP - KB_0 Manual - v1 - ebrzias7,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/12/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum-60th_Bday_decor-KWB - Liran - B07VBJ8G8F - SP - KB_0 Manual - v1 - bot86zsk,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/12/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum-Retirement_Party_Decor-KWB - Liran - B07TRPHFLT - SP - KB_0 Manual - v1 - 7p7a8x8j,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/12/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum-Groomsmen_Gifts-KWB - Liran - B07WDKX1K4 - SP - KB_0 Manual - v1 - dffc8fef,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/12/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelorette_Party_Favors-KWB - Incrementum- B07Y5PBS86 - SP - KB_0 Manual - v1 - 3bhe1d01,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/12/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum-Wedding_Gifts_Couple-KWB - Liran - B07QX99H18 - SP - KB_0 Manual - v1 - uea67uau,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/13/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum-40th_Bday_Decor-KWB - Liran - B07SFXXJKL - SP - KB_0 Manual - v1 - xk7vzhys,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,2/13/20,,..Keyword Booster,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Auto - Test - 40th Bday,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - up and down,5/14/20,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Manual - Test - 40th Bday,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,5/14/20,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,21st Birthday Decorations for Him - Incrementum - B08CD3RRN2 - SP - Auto - z6am7at8,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,7/19/20,,.21st Birthday Decorations for Him,1.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - B08CD3RRN2 - SP - Manual - z6am7at8,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/19/20,,.21st Birthday Decorations for Him,30.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - B08CD3RRN2 - SP - PAT - z6am7at8,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/19/20,,.21st Birthday Decorations for Him,4.81,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Birthday Decorations for Men - Incrementum - B08CD3HTCF - SP - Auto - o21fg7m4,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,7/19/20,,.Birthday Decorations for Men,14.91,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Birthday Decorations for Men - Incrementum - B08CD3HTCF - SP - Manual - o21fg7m4,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/19/20,,.Birthday Decorations for Men,15.09,<5%,CPC,657,5,0.0076,2.56,0.51,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Birthday Decorations for Men - Incrementum - B08CD3HTCF - SP - PAT - o21fg7m4,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,7/19/20,,.Birthday Decorations for Men,4.80,,CPC,49,1,0.0204,0.53,0.53,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,21st birthday decorations for him - Exact - Incrementum - B08CD3RRN2 - SP - KB_0 Manual - z6am7at8,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,7/25/20,,.21st Birthday Decorations for Him,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,B-Day Koozies - Phrase - Incrementum - B08CD3HTCF - SP - KB_1 Manual - o21fg7m4,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,7/25/20,,.HB Legend,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,B-day Koozies - Exact - Incrementum - B08CD3HTCF - SP - KB_0 Manual - o21fg7m4,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,7/25/20,,.HB Legend,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Birthday Decorations for Men - Exact - Incrementum - B08CD3HTCF - SP - KB_2 Manual - o21fg7m4,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,7/25/20,,.Birthday Decorations for Men,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday KWs - Exact - Incrementum - B08CD3HTCF - SP - KB_4 Manual - o21fg7m4,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/20/20,,.HB Legend,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday KWs - Phrase - Incrementum - B08CD3HTCF - SP - KB_5 Manual - o21fg7m4,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/20/20,,.HB Legend,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday KWs - Phrase - Incrementum - B08CD3HTCF - SP - KB_3 Manual - o21fg7m4,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/20/20,,.HB Legend,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Test Exact - Incrementum - B07VBJ8G8F - SP - KB_1 Manual - bot86zsk,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/7/20,,.60th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Test Broad - Incrementum - B07VBJ8G8F - SP - KB_3 Manual - bot86zsk,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/7/20,,.60th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Test Phrase - Incrementum - B07VBJ8G8F - SP - KB_2 Manual - bot86zsk,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,10/7/20,,.60th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Man Cave - EX - TOS,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - up and down,10/19/20,,. Man Cave,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Man Cave - PH - TOS,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - up and down,10/19/20,,. Man Cave,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Dog Mom - EX - TOS,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - up and down,10/19/20,,. Dog Mom,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Dog Mom - PH - TOS,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - up and down,10/19/20,,. Dog Mom,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Dog Mom - PAT,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - up and down,10/19/20,,. Dog Mom,40.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Man Cave - Auto,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - up and down,10/24/20,,. Man Cave,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Dog Mom - Auto,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - up and down,10/24/20,,. Dog Mom,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,KG | Spanish | - Incrementum - B08CD3RRN2 - SP - KB_1 Manual - z6am7at8,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,11/30/20,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KB | Spanish kws| - Incrementum - B07TLYBGV7 - SP - KB_1 Manual - ebrzias7,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KB | Spanish kws | - Incrementum - B07SFXXJKL - SP - KB_1 Manual - xk7vzhys,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KB Spanish kws - Incrementum - B07NLD3D9H - SP - KB_1 Manual - of8gq9sd,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KB Spanish Kws - Incrementum - B07VBJ8G8F - SP - KB_4 Manual - bot86zsk,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,.60th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SP - Auto - c1onm3kc,CAMPAIGN_PAUSED,SP,AUTOMATIC,Dynamic bids - down only,11/30/20,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SP - Manual - c1onm3kc,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SP - PAT - c1onm3kc,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KB Spanish Kws - Incrementum - B07SFXXJKL - SP - KB_0 Manual - c1onm3kc,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KB | High Sales| - Incrementum - B07SFXXJKL - SP - KB_1 Manual - c1onm3kc,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,KB | High Sales| - Incrementum - B07TLYBGV7 - SP - KB_2 Manual - ebrzias7,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,11/30/20,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts - Incrementum - SP - Branded Manual - 7p7a8x8j,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/31/21,,,5.00,,CPC,2,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts - Incrementum - SP - Competitor Manual - 7p7a8x8j,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/31/21,,,10.18,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts - Incrementum - SP - Branded Pat - 7p7a8x8j,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,5/31/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Supplies - Incrementum - SP - Competitor Manual - dffc8fef,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,6.92,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Supplies - Incrementum - SP - Branded Manual - dffc8fef,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,4,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Supplies - Incrementum - SP - Branded Pat - dffc8fef,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,<5%,CPC,83,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,60th Birthday Decorations - Incrementum - SP - Competitor Manual - bot86zsk,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - SP - Branded Manual - bot86zsk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - SP - Branded Pat - bot86zsk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors - Incrementum - SP - Branded Pat - 3bhe1d01,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors - Incrementum - SP - Branded Manual - 3bhe1d01,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors - Incrementum - SP - Competitor Manual - 3bhe1d01,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Blue Line Coolers - Incrementum - SP - Competitor Manual - 2niflry6,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Blue Line Coolers - Incrementum - SP - Branded Manual - 2niflry6,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Blue Line Coolers - Incrementum - SP - Branded Pat - 2niflry6,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,23,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Red Line Coolers - Incrementum - SP - Competitor Manual - y5fpabun,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Red Line Coolers - Incrementum - SP - Branded Manual - y5fpabun,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Thin Red Line Coolers - Incrementum - SP - Branded Pat - y5fpabun,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,6/28/21,,,5.00,,CPC,1,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Coolers - Incrementum - SP - Branded Pat - ohsz2foh,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/11/21,,,5.00,33.333333333333336%,CPC,81,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Coolers - Incrementum - SP - Branded Manual - ohsz2foh,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/11/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Coolers - Incrementum - SP - Competitor Manual - ohsz2foh,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/11/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Wedding Gifts Can Coolers & Heart Bottle Opener - Incrementum - SP - Competitor Manual - uea67uau,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/11/21,,,5.21,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Wedding Gifts Can Coolers & Heart Bottle Opener - Incrementum - SP - Branded Manual - uea67uau,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/11/21,,,4.80,<5%,CPC,4,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Wedding Gifts Can Coolers & Heart Bottle Opener - Incrementum - SP - Branded Pat - uea67uau,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/11/21,,,5.20,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - SP - Branded Pat - c1onm3kc,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - SP - Branded Manual - c1onm3kc,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - SP - Competitor Manual - c1onm3kc,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - SP - Competitor Manual - z6am7at8,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,5.19,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - SP - Branded Pat - z6am7at8,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - SP - Branded Manual - z6am7at8,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Birthday Decorations for Men - Incrementum - SP - Branded Pat - o21fg7m4,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,1.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Birthday Decorations for Men - Incrementum - SP - Branded Manual - o21fg7m4,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Birthday Decorations for Men - Incrementum - SP - Competitor Manual - o21fg7m4,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,5.20,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - SP - Branded Manual - ebrzias7,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - SP - Competitor Manual - ebrzias7,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Birthday Gifts - Incrementum - SP - Competitor Manual - of8gq9sd,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Birthday Gifts - Incrementum - SP - Branded Manual - of8gq9sd,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Birthday Gifts - Incrementum - SP - Branded Pat - of8gq9sd,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,8/12/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,50th Birthday Gifts - Incrementum - SP - Auto - 9ah3zx7l,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,9/16/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,50th Birthday Gifts - Incrementum - SP - Manual - 9ah3zx7l,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,50th Birthday Gifts - Incrementum - SP - Branded Manual - 9ah3zx7l,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,50th Birthday Gifts - Incrementum - SP - Branded Pat - 9ah3zx7l,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,50th Birthday Gifts - Incrementum - SP - Competitor Manual - 9ah3zx7l,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,50th Birthday Gifts - Incrementum - SP - PAT - 9ah3zx7l,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,30th Birthday Decorations - Incrementum - SP - Auto - i9eh9ebq,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,9/16/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,30th Birthday Decorations - Incrementum - SP - Manual - i9eh9ebq,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,30th Birthday Decorations - Incrementum - SP - Competitor Manual - i9eh9ebq,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,30th Birthday Decorations - Incrementum - SP - PAT - i9eh9ebq,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,30th Birthday Decorations - Incrementum - SP - Branded Manual - i9eh9ebq,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Coozie Test - Incrementum - SP - KB_1 Manual - 7p7a8x8j,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,10.00,,CPC,23,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelor party single TOP Test - Incrementum - SP - KB_1 Manual - dffc8fef,CAMPAIGN_PAUSED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Koozie Test - Incrementum - SP - KB_2 Manual - dffc8fef,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,10.00,50.0%,CPC,50,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th birthday for men decorations TOP single test - Incrementum - SP - KB_5 Manual - bot86zsk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Birthdat Coozie test - Incrementum - SP - KB_6 Manual - o21fg7m4,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SP - Auto - l85l6bjx,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,9/16/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SP - Manual - l85l6bjx,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SP - Branded Manual - l85l6bjx,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SP - Branded Pat - l85l6bjx,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SP - Competitor Manual - l85l6bjx,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SP - PAT - l85l6bjx,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/16/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Koozies test - Incrementum - SP - KB_6 Manual - bot86zsk,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - down only,9/17/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B08H5T4RCP - Dog Mom - Automatic,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - up and down,12/15/21,,,20.00,<5%,CPC,14203,4,0.0003,4.92,1.23,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07H7MFZ8R - Fishing - Automatic,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - up and down,12/15/21,,,20.00,<5%,CPC,575,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07H7MFZ8R - Fishing - Manual,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,12/15/21,,,20.00,<5%,CPC,2,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B08H5T4RCP - Dog Mom - Manual,CAMPAIGN_STATUS_ENABLED,SP,MANUAL,Dynamic bids - up and down,12/15/21,,,20.00,<5%,CPC,88,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07Y5PBS86 - Bachelorette - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/12/22,,,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07TLYBGV7 - 30th Bday - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,30th Can Coolers,30.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07SFXXJKL - 40th Bday - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,40th Can Coolers,30.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07NLD3D9H - 50th Bday - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,50th Can Coolers,30.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07JQHNLFZ - Police Officer - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,Police Can Coolers,20.00,<5%,CPC,4488,7,0.0016,4.66,0.67,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B08CD3RRN2 - 21st Bday - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,.21st Birthday Decorations for Him,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B07JRDYPF8 - Firefighter - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,Firefighter Can Coolers,20.00,<5%,CPC,6153,12,0.002,8.20,0.68,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,B08H5T1VKR - Man Cave - Initial Auto,CAMPAIGN_STATUS_ENABLED,SP,AUTOMATIC,Dynamic bids - down only,1/14/22,,. Man Cave,20.00,<5%,CPC,361,1,0.0028,0.27,0.27,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,ID - 50th Bday - SB - PP - KT,TERMINATED,SB,MANUAL,,6/4/20,,,10.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,ID - 40th Bday - SB - PP - KT - 2,TERMINATED,SB,MANUAL,,6/6/20,,,10.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,ID - 40th Bday - SB - PP - KT,TERMINATED,SB,MANUAL,,6/6/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,ID - 40th Bday - SB - PP - KT - 1,TERMINATED,SB,MANUAL,,6/6/20,,,10.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 60th Bday - SB - PP - KT (1),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 60th Bday - SB - PP - KT (4),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SB - PP - KT (2),RUNNING,SB,MANUAL,,6/12/20,,.50th Birthday Gifts,15.00,8.148148148148149%,,65,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SB - PP - KT (2),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 30th Bday - SB - PP - KT (4),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 40th Bday - SB - PP - KT (4),RUNNING,SB,MANUAL,,6/12/20,,.40th Birthday Decorations,15.00,36.8421052631579%,,573,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 30th Bday - SB - PP - KT (3),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SB - PP - KT (1),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SB - PP - KT (3),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 30th Bday - SB - PP - KT (1),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 30th Bday - SB - PP - KT (2),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 50th Bday - SB - PP - KT (1),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 50th Bday - SB - PP - KT (3),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 50th Bday - SB - PP - KT (4),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 60th Bday - SB - PP - KT (2),PAUSED,SB,MANUAL,,6/12/20,,.60th Birthday Decorations,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 60th Bday - SB - PP - KT (3),PAUSED,SB,MANUAL,,6/12/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 50th Bday - SB - AS - KT - IMG,PAUSED,SB,MANUAL,,9/15/20,,,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 60th Bday - SB - AS - KT - IMG,PAUSED,SB,MANUAL,,9/15/20,,.60th Birthday Decorations,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 60th Bday - SB - PP - IMG,PAUSED,SB,MANUAL,,10/2/20,,.60th Birthday Decorations,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday | Incrementum | S.B. | A|,RUNNING,SB,MANUAL,,11/27/20,,.21st Birthday Decorations for Him,10.00,<5%,,148,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 60th Bday | S.B. | A | a|,RUNNING,SB,MANUAL,,11/30/20,,.60th Birthday Decorations,15.00,<5%,,256,1,0.0039,0.50,0.50,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday | S.B. | A |1|a|,RUNNING,SB,MANUAL,,11/30/20,,.50th Birthday Gifts,10.00,<5%,,164,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 40th Bday | S.B. | A |1|a|,RUNNING,SB,MANUAL,,11/30/20,,.40th Birthday Decorations,15.00,<5%,,109,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 30th Bday | S.B. | A | 1 |a|,PAUSED,SB,MANUAL,,11/30/20,,.30th Birthday Decorations,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelorette- Incrementum-S.B.-HS-KT1,PAUSED,SB,MANUAL,,4/5/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelorette- Incrementum-S.B.-MS-KT1,PAUSED,SB,MANUAL,,4/5/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelorette- Incrementum-S.B.-MS2-KT1,PAUSED,SB,MANUAL,,4/5/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelorette- Incrementum-S.B.-HS-KT2,PAUSED,SB,MANUAL,,4/5/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bundle 40th- Incrementum-S.B. Br,PAUSED,SB,MANUAL,,4/12/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,21th Bday Bundle-Incrementum-SB. KT1,PAUSED,SB,MANUAL,,4/22/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,21th Bday Bundle-Incrementum-SB. KT2,PAUSED,SB,MANUAL,,4/22/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Bday Bundle-Incrementum-SB-KT1,PAUSED,SB,MANUAL,,4/22/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,21th Bday Bundle-Incrementum-SB. KT11,PAUSED,SB,MANUAL,,4/26/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,21th Bday Bundle-Incrementum-SB. KT3,PAUSED,SB,MANUAL,,4/26/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,21th Bday Bundle-Incrementum-SB. KT5,PAUSED,SB,MANUAL,,4/26/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Bday Bundle-Incrementum-SB-KT3,PAUSED,SB,MANUAL,,4/26/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Bday Bundle-Incrementum-SB-KT5,PAUSED,SB,MANUAL,,4/26/21,,.Bundle S.B.,2.00,,,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (1),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (8),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement - SD - PT - 80/20 (2),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Retirement - SD - CT (ThermoCoolers 4-5 Prime),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (3),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - ASIN Grab (1),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - ASIN Grab (2),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - 80/20 (5),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Retirement - SD - PT - 80/20 (1),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement - SD - PT - 80/20 (3),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement - SD - PT - 80/20 (4),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,6,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement - SD - PT - 80/20 (5),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement - SD - PT - ASIN Grab (1),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,15,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement - SD - PT - ASIN Grab (2),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,1,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Retirement - SD - CT (ThermoCoolers 0-4 Stars),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,157,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Retirement - SD - CT (ThermoCoolers 4-5 Not Prime),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.Retirement Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - 80/20 (1),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - 80/20 (2),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - 80/20 (3),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - 80/20 (4),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - ASIN Grab (1),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - ASIN Grab (2),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - ASIN Grab (3),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,20.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 50th Bday - SD - CT (ThermoCoolers 0-4 Stars),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 50th Bday - SD - CT (ThermoCoolers 4-5 Not Prime),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - CT (ThermoCoolers 4-5 Prime),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SD - PT - SA (1),CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,5/23/20,,.50th Birthday Gifts,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (2),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (4),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (5),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (6),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday - SD - PT - 80/20 (7),CAMPAIGN_PAUSED,SD,MANUAL,,5/23/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,Sun Ninja Tents - Perpetua - Incrementum - SDA PT,CAMPAIGN_ARCHIVED,SD,MANUAL,,6/12/20,,,25.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,Sun Ninja Tents - Perpetua - Incrementum - SD - PT,CAMPAIGN_ARCHIVED,SD,MANUAL,,6/12/20,,,25.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 21st Bday - PT - 3,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.21st Birthday Decorations for Him,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - HBYL - SD - PT - 1,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.HB Legend,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - HBYL - SD - PT - 2,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,7/25/20,,.HB Legend,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 21st Bday - PT - 1,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.21st Birthday Decorations for Him,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 21st Bday - PT - 2,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.21st Birthday Decorations for Him,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 21st Bday - PT - 4,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.21st Birthday Decorations for Him,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 21st Bday - PT - 5,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.21st Birthday Decorations for Him,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - HBYL - SD - PT - 3,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.HB Legend,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - HBYL - SD - PT - 4,CAMPAIGN_PAUSED,SD,MANUAL,,7/25/20,,.HB Legend,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - HBYL - SD - PT - 5,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,7/25/20,,.HB Legend,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Test,CAMPAIGN_PAUSED,SD,MANUAL,,9/22/20,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,60th Test,CAMPAIGN_PAUSED,SD,MANUAL,,9/22/20,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SD - Product Targeting - xk7vzhys,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - B08CD3RRN2 - SD - Product Targeting - z6am7at8,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,9/28/20,,.21st Birthday Decorations for Him,5.00,,CPC,20,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - B07TLYBGV7 - SD - Product Targeting - ebrzias7,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.30th Birthday Decorations,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,50th Birthday Gifts - Incrementum - B07NLD3D9H - SD - Product Targeting - of8gq9sd,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.50th Birthday Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Birthday Decorations for Men - Incrementum - B08CD3HTCF - SD - Product Targeting - o21fg7m4,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Birthday Decorations for Men,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - B07VBJ8G8F - SD - Product Targeting - bot86zsk,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,9/28/20,,.60th Birthday Decorations,10.00,,CPC,10,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelor Party Supplies - Incrementum - B07WDKX1K4 - SD - Product Targeting - dffc8fef,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Bachelor Party Supplies,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelorette Party Favors - Incrementum - B07Y5PBS86 - SD - Product Targeting - 3bhe1d01,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Bachelorette Party Favors,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Fishing Coolers - Incrementum - B07H7MFZ8R - SD - Product Targeting - ohsz2foh,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Fishing Coolers,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Blue Line Coolers - Incrementum - B07JQHNLFZ - SD - Product Targeting - 2niflry6,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Thin Blue Line Coolers,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Red Line Coolers - Incrementum - B07JRDYPF8 - SD - Product Targeting - y5fpabun,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Thin Red Line Coolers,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Retirement Gifts - Incrementum - B07TRPHFLT - SD - Product Targeting - 7p7a8x8j,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Retirement Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Wedding Gifts - Incrementum - B07QX99H18 - SD - Product Targeting - uea67uau,CAMPAIGN_PAUSED,SD,MANUAL,,9/28/20,,.Wedding Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party - Incrementum | S.D.| A.G.| 01,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/25/20,,.Bachelor Party Supplies,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Supplies - Incrementum| S.D.| A.G|02,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/25/20,,.Bachelor Party Supplies,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party | Incrementum| S.D.| A.G|03,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/25/20,,.Bachelor Party Supplies,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Firefighter Gifts | Incrementum | S.D. | A.G. | 05| Test,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/27/20,,..Sponsored Brands,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Firefighter Gifts| Incrementum | S.D. | A.G. | 01|A,CAMPAIGN_PAUSED,SD,MANUAL,,11/27/20,,..Sponsored Brands,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Firefighter Gifts | Incrementum | S.D. | A.G. | 02| A,CAMPAIGN_PAUSED,SD,MANUAL,,11/27/20,,Firefighter Can Coolers,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Firefighter Gifts | Incrementum | S.D. | A.G. | 03| A,CAMPAIGN_PAUSED,SD,MANUAL,,11/27/20,,..Sponsored Brands,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Firefighter Gifts | Incrementum | S.D. | A.G. | 04| A,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/27/20,,..Sponsored Brands,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Firefighter Gifts| Incrementum | S.D. | A.G. | 01|B,CAMPAIGN_PAUSED,SD,MANUAL,,11/27/20,,..Sponsored Brands,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Firefighter Gifts | Incrementum | S.D. | A.G. | 03| B,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/27/20,,Firefighter Can Coolers,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,Thin Red Line Coolers - Incrementum - B07JRDYPF8 - SD - Retargeting - y5fpabun,CAMPAIGN_ARCHIVED,SD,AUTOMATIC,,11/27/20,,.Thin Red Line Coolers,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,Retirement Gifts - Incrementum - B07TRPHFLT - SD - Retargeting - 7p7a8x8j,CAMPAIGN_ARCHIVED,SD,AUTOMATIC,,11/27/20,,.Retirement Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,Thin Blue Line Coolers - Incrementum - B07JQHNLFZ - SD - Retargeting - 2niflry6,CAMPAIGN_ARCHIVED,SD,AUTOMATIC,,11/27/20,,.Thin Blue Line Coolers,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,Fishing Coolers - Incrementum - B07H7MFZ8R - SD - Retargeting - ohsz2foh,CAMPAIGN_ARCHIVED,SD,AUTOMATIC,,11/27/20,,.Fishing Coolers,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 30th Bday - S.D. | A.G.|,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/27/20,,.30th Birthday Decorations,10.00,,CPC,126,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 40th Bday - S.D. | A.G.|,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/27/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 40th Bday - S.D. | A.G.|02,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,11/27/20,,.40th Birthday Decorations,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ARCHIVED,40th Birthday Decorations - Incrementum - B07SFXXJKL - SD - Retargeting - xk7vzhys,CAMPAIGN_ARCHIVED,SD,AUTOMATIC,,11/28/20,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SD - Product Targeting - c1onm3kc,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,2/5/21,,.40th Birthday Decorations,10.00,,CPC,34,1,0.0294,0.01,0.01,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Red Line Coolers - Incrementum - SD - Brand Defense Product Targeting - d8bli7zl,CAMPAIGN_PAUSED,SD,MANUAL,,6/7/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Blue Line Coolers - Incrementum - SD - Brand Defense Product Targeting - g8qtu5f3,CAMPAIGN_PAUSED,SD,MANUAL,,6/7/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SD - Brand Defense Product Targeting - 9om0273v,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,6/7/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - SD - Brand Defense Product Targeting - vd2gysjt,CAMPAIGN_PAUSED,SD,MANUAL,,6/7/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - SD - Brand Defense Product Targeting - pxexoihb,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,6/7/21,,,5.00,,CPC,225,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - SD - Brand Defense Product Targeting - lhbhx705,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,6/7/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,60th Birthday Decorations - Incrementum - SD - 60 th - CTR 0 - 01 - pxexoihb,CAMPAIGN_PAUSED,SD,MANUAL,,6/18/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - SD - 60 th - CTR 01-05 - pxexoihb,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,6/18/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - SD - 60th - CTR 2 - pxexoihb,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,6/18/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Blue Line Coolers - Incrementum - SD - Similar Products Views Remarketing - g8qtu5f3,CAMPAIGN_PAUSED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Thin Blue Line Coolers - Incrementum - SD - Advertised Products Views Remarketing - g8qtu5f3,CAMPAIGN_PAUSED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,40th Birthday Decorations - Incrementum - SD - Similar Products Views Remarketing - 9om0273v,CAMPAIGN_PAUSED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,40th Birthday Decorations - Incrementum - SD - Advertised Products Views Remarketing - 9om0273v,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - SD - Similar Products Views Remarketing - lhbhx705,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Decorations for Him - Incrementum - SD - Advertised Products Views Remarketing - lhbhx705,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - SD - Similar Products Views Remarketing - vd2gysjt,CAMPAIGN_PAUSED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,30th Birthday Decorations - Incrementum - SD - Advertised Products Views Remarketing - vd2gysjt,CAMPAIGN_PAUSED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,60th Birthday Decorations - Incrementum - SD - Similar Products Views Remarketing - pxexoihb,CAMPAIGN_PAUSED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decorations - Incrementum - SD - Advertised Products Views Remarketing - pxexoihb,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,7/8/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 40th Birthday Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - ho462v2a,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,61,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 30th Birthday Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - xy8texa9,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,251,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 50th Birthday Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - y8kn7jm7,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,344,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy Birthday Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - cs3edcdn,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,183,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Party Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - 018go0dk,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,136,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Beverage Can Coolers & Heart Bottle Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - nqwdyu4t,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,3,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Firefighter Gifts for Men Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - yq9ae9go,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,293,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Police Officer Gifts Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - jqilnnz9,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,81,1,0.0123,0.36,0.36,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Dog Mom Beverage Can Coolers Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - 530z61go,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Man Cave Beverage Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - 9jed9fpy,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,211,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decor Incr SD CO 4K-1K IMP - Incrementum - SD - Competitor Product Targeting - hs542uad,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,39,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decor Incr SD CO 1K-500 IMP - Incrementum - SD - Competitor Product Targeting - 7jhutyx9,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,675,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,60th Birthday Decor Incr SD CO 500-200 IMP - Incrementum - SD - Competitor Product Targeting - fvy8zukw,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,75,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Decorations for Men Incr SD CO 16K-5K IMP - Incrementum - Competitor Product Targeting - gzrsuqu6,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,11,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Decorations for Men Incr SD CO 5K-2K IMP - Incrementum - SD - Competitor Product Targeting - ezgs5o1k,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,408,2,0.0049,1.28,0.64,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Decorations for Men Incr SD CO 1K-500 IMP - Incrementum - Competitor Product Targeting - u8u9saep,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,64,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Decorations for Men Incr SD CO 500-200 IMP - Incrementum - Competitor Product Targeting - cejb40b9,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,449,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,BroSash Bachelor Party Sash Incr SD CO 16K-5K IMP - Incrementum - SD - Competitor Product Targeting - hal2fpvb,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,7,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,BroSash Bachelor Party Sash Incr SD CO 5K-2K IMP - Incrementum - SD - Competitor Product Targeting - 2oduwa74,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,4,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,BroSash Bachelor Party Sash Incr SD CO 2K-1K IMP - Incrementum - SD - Competitor Product Targeting - xp3t7vo1,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,3,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,BroSash Bachelor Party Sash Incr SD CO 1K-500 IMP - Incrementum - SD - Competitor Product Targeting - 08c37d56,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,10,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,BroSash Bachelor Party Sash Incr SD CO 500-200 IMP - Incrementum - SD - Competitor Product Targeting - v757txnp,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,12,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors Incr SD CO AG - Incrementum - SD - Competitor Product Targeting - h1y46pmc,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,772,1,0.0013,0.27,0.27,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Gifts For Men Incr SD CO 1K-200 IMP - Incrementum - SD - Competitor Product Targeting - he56ubnd,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Gold Coastal Beverage-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - tuyhcsbx,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Gold Coastal Beverage-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - fnoq3tb4,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Gold Coastal Beverage-Incr-SD Similar Pr VR - Incrementum - SD - Similar Products Views Remarketing - cyc4bz4z,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts for Men & Women-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - ebyqv0jz,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts for Men & Women-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - ekum8kit,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Retirement Gifts for Men & Women-Incr-SD Similar Pr VR - Incrementum - Similar Products Views Remarketing - e8q6zjj8,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 40th Birthday Decorations for Men-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - 8fh8xqed,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,99,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 40th Birthday Decorations for Men-Incr-SD AP VR - Advertised Products Views Remarketing - g4yvarzn,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 40th Birthday Decorations for Men-Incr-SD Sim Pr VR - Similar Products Views Remarketing - sfd6vp04,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 30th Birthday Decorations for Men-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - 0acxu4x9,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,9.97,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 30th Birthday Decorations for Men-Incr-SD AP VR - Advertised Products Views Remarketing - v70ga02p,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,4,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 30th Birthday Decorations for Men-Incr-SD Sim Pr VR - Similar Products Views Remarketing - wjla6w1v,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,7.50,,CPC,402,1,0.0025,0.13,0.13,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 50th Birthday Party Decorations-Incr-SD Similar Pr VR - Similar Products Views Remarketing - avp5dtnx,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 50th Birthday Party Decorations-Incr-SD AP VR - Incrementum - Advertised Products Views Remarketing - 47qyzf12,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 50th Birthday Party Decorations-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - xhfoo3fx,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 60th Birthday Party Decorations-Incr-SD AP VR - Incrementum - Advertised Products Views Remarketing - 88ja45gf,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 60th Birthday Party Decorations-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - 86cx5gs7,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,161,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy 60th Birthday Party Decorations-Incr-SD Similar Pr VR - Similar Products Views Remarketing - buock68c,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy Birthday Decorations for Men-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - csdxj9og,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,173,1,0.0058,0.01,0.01,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy Birthday Decorations for Men-Incr-SD AP VR - Incrementum - Advertised Products Views Remarketing - a1tdmb8b,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Happy Birthday Decorations for Men-Incr-SD Similar Pr VR - Similar Products Views Remarketing - r1h0p5cz,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,8.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Party Decorations-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - d6kt3u87,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,15.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Party Decorations-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - m5avi72r,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,21st Birthday Party Decorations-Incr-SD Similar Pr VR - Incrementum - Similar Products Views Remarketing - vgxvf2ly,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Decorations-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - o07qw7g1,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,9.96,,CPC,10,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Decorations-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - zc755tje,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,7,1,0.1429,0.28,0.28,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelor Party Decorations-Incr-SD Similar Pr VR - Incrementum - SD - Similar Products Views Remarketing - z530cs58,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,7.50,,CPC,71,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - uor2g3lb,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,1,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Bachelorette Party Favors-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - wiwty2ld,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Bachelorette Party Favors-Incr-SD Similar Pr VR - Incrementum - SD - Similar Products Views Remarketing - njym8k49,CAMPAIGN_PAUSED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Man Cave Beverage Can Coolers-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - nsec17uf,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Man Cave Beverage Can Coolers-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - wswh7e2f,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Man Cave Beverage Can Coolers-Incr-SD Similar Pr VR - Incrementum - Similar Products Views Remarketing - 8mvp8pcr,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,7,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Dog Mom Beverage Can Coolers-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - thjul26m,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,9.97,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Dog Mom Beverage Can Coolers-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - nidyma0o,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Dog Mom Beverage Can Coolers-Incr-SD Similar Pr VR - Incrementum - Similar Products Views Remarketing - 3ruppj7p,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,15,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Firefighter Gifts for Men-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - 21jkcydp,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Firefighter Gifts for Men-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - lh4nqr11,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Firefighter Gifts for Men-Incr-SD Similar Pr VR - Incrementum - SD - Similar Products Views Remarketing - bmwda1f2,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Police Officer Gifts for Men-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - jwnk7ow0,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,5,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Police Officer Gifts for Men-Incr-SD Similar Pr VR - Incrementum - Similar Products Views Remarketing - kbwqxmq6,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Gifts For Men & Women-Incr-SD Similar Pr VR - Incrementum - Similar Products Views Remarketing - aymi7mib,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Gifts For Men & Women-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - xx4p9bao,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Police Officer Gifts for Men-Incr-SD AP VR - Incrementum - SD - Advertised Products Views Remarketing - xovraqh9,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,5.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Fishing Gifts For Men & Women-Incr-SD-BD - Incrementum - SD - Brand Defense Product Targeting - xibbbwgv,CAMPAIGN_STATUS_ENABLED,SD,MANUAL,,8/26/21,,,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,ID - Bachelorette - SB - V,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,6/11/20,,.Bachelorette Party Favors,20.00,,CPC,2185,9,0.0041,4.26,0.47,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,ID - Wedding Gifts - SB - V,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,6/12/20,,.Wedding Gifts,35.00,,CPC,41,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,ID - 30th Bday - SB - V(1),CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,6/12/20,,.30th Birthday Decorations,60.00,,CPC,1329,11,0.0083,9.69,0.88,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 21st Bday - VID,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,7/19/20,,.21st Birthday Decorations for Him,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 50th Bday - SB - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,10/6/20,,.50th Birthday Gifts,45.00,,CPC,1079,14,0.013,13.08,0.93,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 60th Bday - VID,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,10/6/20,,.60th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - 40th Bday -  VID,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,10/7/20,,.40th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Dog Mom - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,10/19/20,,. Dog Mom,2.00,,CPC,109,2,0.0183,2.79,1.40,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Red Line - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,11/4/20,,.Thin Red Line Coolers,10.00,,CPC,2768,8,0.0029,8.35,1.04,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Blue Line - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,11/4/20,,.Thin Blue Line Coolers,10.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Fishing Koozies - VID,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,11/4/20,,.Fishing Coolers,2.00,,CPC,97,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,ID - 30th Bday | Incrementum|- SB - V(1)(1)| H.S.|,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,11/24/20,,.30th Birthday Decorations,40.00,,CPC,351,1,0.0028,0.89,0.89,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Retirement Gifts - SB - V(1) High Sales,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,11/24/20,,.Retirement Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,ID - 60th Bday| Incrementum| - SB - V(1)(1) H.S.,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,11/24/20,,.60th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,ID - 50th Bday - SB - V(2) | H.S.|,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,11/27/20,,.50th Birthday Gifts,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,ID - 30th Bday - SB - V(1) |H.S.|,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,11/27/20,,.30th Birthday Decorations,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,ID - 50th Bday - SB - V(1) H.S.(1),CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,11/30/20,,.50th Birthday Gifts,20.00,,CPC,510,5,0.0098,2.95,0.59,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 30 Bday - SB -  VID(1)a,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,11/30/20,,.30th Birthday Decorations,20.00,,CPC,1336,13,0.0097,11.05,0.85,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Dog Mom - VID-Broad,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,4/17/21,,. Dog Mom,3.00,,CPC,389,2,0.0051,1.36,0.68,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - Dog Mom - VID-Broad Modifier,CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,4/17/21,,. Dog Mom,3.00,,CPC,836,3,0.0036,3.51,1.17,0,0.00,0,0,0,0,0.00,0,0,0.00
+PAUSED,Incrementum - Dog Mom - VID-Phrase,CAMPAIGN_PAUSED,SBV,MANUAL,Dynamic bids - down only,4/17/21,,. Dog Mom,2.00,,CPC,0,0,0,0.00,0.00,0,0.00,0,0,0,0,0.00,0,0,0.00
+ENABLED,Incrementum - 21st Bday - VID(1),CAMPAIGN_STATUS_ENABLED,SBV,MANUAL,Dynamic bids - down only,6/21/21,,.21st Birthday Decorations for Him,35.00,,CPC,522,15,0.0287,12.42,0.83,0,0.00,0,0,0,0,0.00,0,0,0.00
